@@ -5,7 +5,7 @@
 * Judul Pemodelan : Jasa Travel Umroh Priority
 * Mata Kuliah : Pemrograman Basis Data (PBD)
 * Bahasa : DDL, DML, Query
-* Software : Oracle Database XE
+* Software : Oracle SQL Developer
 * Platform : Desktop
 * Kontribusi Saya : Menyeluruh
 
